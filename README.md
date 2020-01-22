@@ -4,10 +4,10 @@ Repository with all the content from practical labs of one of my classes: [Distr
 
 ## Table of Contents
 
-* **Lab01:**
-* **Lab02:**
-* **Lab03:**
-* **Lab04:**
+* **Lab01:** Client-Server Chat
+* **Lab02:** Restaurant - Drive-Through
+* **Lab03:** DHT
+* **Lab04:** Load Balancer
 
 ## Authors
 * **Vasco Ramos** - [vascoalramos](https://github.com/vascoalramos)
